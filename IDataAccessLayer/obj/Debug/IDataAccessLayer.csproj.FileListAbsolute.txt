@@ -1,0 +1,5 @@
+C:\Users\tdurden\Documents\GitHub\Petshop4.0\IDataAccessLayer\bin\Debug\Petshop.IDataAccessLayer.dll
+C:\Users\tdurden\Documents\GitHub\Petshop4.0\IDataAccessLayer\bin\Debug\Petshop.IDataAccessLayer.pdb
+C:\Users\tdurden\Documents\GitHub\Petshop4.0\IDataAccessLayer\obj\Debug\IDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\tdurden\Documents\GitHub\Petshop4.0\IDataAccessLayer\obj\Debug\Petshop.IDataAccessLayer.dll
+C:\Users\tdurden\Documents\GitHub\Petshop4.0\IDataAccessLayer\obj\Debug\Petshop.IDataAccessLayer.pdb
